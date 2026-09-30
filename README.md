@@ -20,4 +20,4 @@ npm install
 npx expo start
 ```
 
-The web client lives in [iMart_web](https://github.com/gabrielfel1x/iMart_web).
+The web client lives in [imart-web](https://github.com/gabrielfel1x/imart-web).
